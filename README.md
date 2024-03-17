@@ -2,8 +2,7 @@
 
 <div>
   <a href="https://github.com/NicoleValleGurgel"/>
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&show_icons=true&theme=material-palenight"/>
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleValleGurgel&hide_progress=true&theme=material-palenight"/>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs,issues&show_icons=true&text_color=FF69B4&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&border_color=FF1493"
   <img height= "180em" src=""
 </div>
 
@@ -13,3 +12,5 @@
           
   
 </div>
+
+
