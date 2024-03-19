@@ -1,16 +1,14 @@
 ##Hi👋
 
-<div>
-  <a href="https://github.com/NicoleValleGurgel"/>
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs,issues&show_icons=true&text_color=FF69B4&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&border_color=FF1493"
-  <img height= "180em" src=""
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=contribs,prs&show_icons=true&text_color=FF69B4&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&border_color=FF1493)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleValleGurgel&hide_progress=true&text_color=FF69B4&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&border_color=FF1493)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nicole-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Nicole-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-  
-</div>
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoleValleGurgel&repo=AutomacaoDeTarefas&text_color=FF69B4&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&border_color=FF1493)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
