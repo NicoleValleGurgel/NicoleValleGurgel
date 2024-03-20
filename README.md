@@ -8,6 +8,6 @@
 ##
 
 
-![snake gif](https://github.com/NicoleValleGurgel/NicoleValleGurgel/blob/output/github-contribution-grid-snake.svg)
+
 
 
