@@ -1,4 +1,4 @@
-bg_color=00000000&text_color=4c71f2&title_color=4c71f2&icon_color=7327b8&border_color=7327b8
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs&rank_icon=github&show_icons=true&bg_color=00000000&text_color=4c71f2&title_color=4c71f2&icon_color=7327b8&border_color=7327b8)](https://github.com/NicoleValleGurgel/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleValleGurgel&layout=compact&bg_color=00000000&text_color=4c71f2&title_color=4c71f2&icon_color=7327b8&border_color=7327b8)
@@ -20,6 +20,7 @@ bg_color=00000000&text_color=4c71f2&title_color=4c71f2&icon_color=7327b8&border_
   <a href="https://www.linkedin.com/in/maria-karoline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
+  bg_color=00000000&text_color=4c71f2&title_color=4c71f2&icon_color=7327b8&border_color=7327b8
 
 
 
