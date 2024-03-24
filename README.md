@@ -18,4 +18,4 @@
   <img alt="Karol-git" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 </div><br/>
 
-![download (1)](https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/8f8b174d-46f7-45a8-8ccb-18ac93c3a04b)
+
