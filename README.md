@@ -24,5 +24,6 @@
 ![vs](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=4c71f2)
 ![git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=4c71f2)
 ![google colab](https://img.shields.io/badge/Colab-4c71f2?style=for-the-badge&logo=googlecolab&color=000000)
-
-
+![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=4c71f2)
+![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS&logoColor=4c71f2)
+![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=4c71f2)
