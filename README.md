@@ -8,8 +8,8 @@
 
 
 <a href="https://github.com/NicoleValleGurgel/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs&show_icons=true&rank_icon=github&bg_color=000000&text_color=4c71f2&title_color=4c71f2&icon_color=7327b8&border_color=7327b8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs&show_icons=true&rank_icon=github&bg_color=000000&text_color=4c71f2&title_color=4c71f2&icon_color=7327b8&border_color=7327b8#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/NicoleValleGurgel/convoychat">
+<a href="https://github.com/NicoleValleGurgel/convoychat#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleValleGurgel&hide_progress=true&bg_color=000000&border_color=7327b8&text_color=4c71f2&title_color=4c71f2#gh-dark-mode-only" />
 </a>
