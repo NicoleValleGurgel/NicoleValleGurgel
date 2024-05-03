@@ -11,11 +11,8 @@
 [![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=4c71f2)](mailto:nicolevalegurgel22@gmail.com)
 [![discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=4c71f2)](https://discordapp.com/users/nicole_valleg)
 
-<pictures>
-<source media="(prefers-color-scheme: light)" src="https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs&show_icons=true&rank_icon=github&bg_color=f5b1b0&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=e8307b">
-</pictures>
-
-[![stats](https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs&show_icons=true&rank_icon=github&bg_color=000000&text_color=4c71f2&title_color=4c71f2&icon_color=7327b8&border_color=7327b8)](https://github.com/NicoleValleGurgel/github-readme-stats) 
+[![stats](https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs&show_icons=true&rank_icon=github&bg_color=f5b1b0&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=e8307b)](https://github.com/NicoleValleGurgel/github-readme-stats#gh-light-mode-only)
+[![stats](https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs&show_icons=true&rank_icon=github&bg_color=000000&text_color=4c71f2&title_color=4c71f2&icon_color=7327b8&border_color=7327b8)](https://github.com/NicoleValleGurgel/github-readme-stats#gh-dark-mode-only) 
 
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=4c71f2)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=4c71f2)
