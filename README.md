@@ -11,6 +11,10 @@
 [![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=4c71f2)](mailto:nicolevalegurgel22@gmail.com)
 [![discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=4c71f2)](https://discordapp.com/users/nicole_valleg)
 
+<pictures>
+<source media="(prefers-color-scheme: light)" src="https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs&show_icons=true&rank_icon=github&bg_color=f5b1b0&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=e8307b">
+</pictures>
+
 [![stats](https://github-readme-stats.vercel.app/api?username=NicoleValleGurgel&hide=prs&show_icons=true&rank_icon=github&bg_color=000000&text_color=4c71f2&title_color=4c71f2&icon_color=7327b8&border_color=7327b8)](https://github.com/NicoleValleGurgel/github-readme-stats) 
 
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=4c71f2)
@@ -27,3 +31,9 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=4c71f2)
 ![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS&logoColor=4c71f2)
 ![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=4c71f2)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NicoleValleGurgel/NicoleValleGurgel/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NicoleValleGurgel/NicoleValleGurgel/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/blob/output/github-contribution-grid-snake.gif">
+</picture>
