@@ -9,9 +9,9 @@ And I know how to make digital art</p>
 
 ##
 
-<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b278b38b-ced3-4b16-afec-d6e066e00d2f" alt="kirby Gif" width="400" height="400" align="right"> 
+<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b278b38b-ced3-4b16-afec-d6e066e00d2f#gh-light-mode-only" alt="kirby Gif" width="400" height="400" align="right"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=What+I'm+up+to)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=What+I'm+up+to)](https://git.io/typing-svg#gh-light-mode-only)
 
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Fourth semester in Information Technology Management
 
@@ -20,9 +20,16 @@ And I know how to make digital art</p>
 
 ## 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Technologies+I'm+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Technologies+I'm+learning)](https://git.io/typing-svg#gh-light-mode-only)
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />  Java
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Also keen on learning Angular, React, SQL, Bootstrap and jQuery
+
+##
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Social+media)](https://git.io/typing-svg#gh-light-mode-only)
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-f5b1b0?style=for-the-badge&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/nicole-valle-gurgel-364160201#gh-light-mode-only)
+[![gmail](https://img.shields.io/badge/Gmail-f5b1b0?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:nicolevalegurgel22@gmail.com#gh-light-mode-only)
 
 ## 
 
@@ -42,13 +49,13 @@ And I know how to make digital art</p>
 
 ## 
 
-[![languages](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Languages+and+Technologies)](https://git.io/typing-svg)
+[![languages](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Languages+and+Technologies)](https://git.io/typing-svg#gh-light-mode-only)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,python,cypress,java,md,sketchup,autocad)](https://skillicons.dev)
 
 ##
 
-[![platforms](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Tools+and+Platforms)](https://git.io/typing-svg)
+[![platforms](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Tools+and+Platforms)](https://git.io/typing-svg#gh-light-mode-only)
 
 [![My Skills](https://skillicons.dev/icons?i=azure,vscode,obsidian,linux,idea,git,github,figma)](https://skillicons.dev)
 
