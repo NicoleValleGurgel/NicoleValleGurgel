@@ -7,6 +7,8 @@ I've always been passionate about technology, I love talking about anything invo
 I love playing video games, reading, and watching cartoons.
 And I know how to make digital art</p>
 
+##
+
 <img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b278b38b-ced3-4b16-afec-d6e066e00d2f" alt="kirby Gif" width="400" height="400" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=What+I'm+up+to)](https://git.io/typing-svg)
@@ -40,7 +42,13 @@ And I know how to make digital art</p>
 
 ## 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Languages+and+Technologies)](https://git.io/typing-svg)
+[![languages](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Languages+and+Technologies)](https://git.io/typing-svg)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,python,cypress,java,md,sketchup,autocad)](https://skillicons.dev)
+
+[![platforms](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Tools+and+Platforms)](https://git.io/typing-svg)
+
+[![My Skills](https://skillicons.dev/icons?i=azure,vscode,obsidian,linux,idea,git,github,figma)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NicoleValleGurgel/NicoleValleGurgel/blob/output/github-contribution-grid-snake-dark.svg">
