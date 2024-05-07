@@ -10,9 +10,6 @@ And I know how to make digital art</p>
 ##
  
 
-<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/a4479b4f-f439-42ef-98a4-7691a72932a0#gh-dark-mode-only" height="400" width="400" align="right" >
-<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/35de4ca4-3b7b-4ffc-92cc-4d3375566c4b#gh-light-mode-only" height="400" width="400" align="right">
-
 
 ##
 
