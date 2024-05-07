@@ -8,15 +8,15 @@ I love playing video games, reading, and watching cartoons.
 And I know how to make digital art</p>
 
 ##
-<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b278b38b-ced3-4b16-afec-d6e066e00d2f#gh-light-mode-only" alt="kirby Gif" width="400"   
-  height="400" align="right"> 
+ 
 
-<img src="https://user-images.githubusercontent.com/60971382/154115099-ad024ae0-95ed-4f77-9e08-6c724abb6b08.png#gh-dark-mode-only" > 
-<img src="https://user-images.githubusercontent.com/60971382/154115268-8bfc611f-e3a8-4078-b5c0-20a2bd4de0b7.png#gh-light-mode-only" > 
-
+<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/a4479b4f-f439-42ef-98a4-7691a72932a0#gh-dark-mode-only" height="400" width="400" align="right" >
+<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/35de4ca4-3b7b-4ffc-92cc-4d3375566c4b#gh-light-mode-only" height="400" width="400" align="right">
 
 
-<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/037583bc-5215-4c1c-8df6-a7e64d79873b#gh-dark-mode-only" alt="kirby Gif" width="400" height="400" align="right"> 
+##
+
+ 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=What+I'm+up+to)](https://git.io/typing-svg#gh-light-mode-only)
 
