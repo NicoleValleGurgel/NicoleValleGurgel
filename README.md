@@ -8,11 +8,12 @@ I love playing video games, reading, and watching cartoons.
 And I know how to make digital art</p>
 
 ##
-
-<iframe>
-  <img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b278b38b-ced3-4b16-afec-d6e066e00d2f#gh-light-mode-only" alt="kirby Gif" width="400"   
+<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b278b38b-ced3-4b16-afec-d6e066e00d2f#gh-light-mode-only" alt="kirby Gif" width="400"   
   height="400" align="right"> 
-</iframe>
+
+<img src="https://user-images.githubusercontent.com/60971382/154115099-ad024ae0-95ed-4f77-9e08-6c724abb6b08.png#gh-dark-mode-only" > 
+<img src="https://user-images.githubusercontent.com/60971382/154115268-8bfc611f-e3a8-4078-b5c0-20a2bd4de0b7.png#gh-light-mode-only" > 
+
 
 
 <img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/037583bc-5215-4c1c-8df6-a7e64d79873b#gh-dark-mode-only" alt="kirby Gif" width="400" height="400" align="right"> 
