@@ -9,7 +9,13 @@ And I know how to make digital art</p>
 
 ##
 
-<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b278b38b-ced3-4b16-afec-d6e066e00d2f#gh-light-mode-only" alt="kirby Gif" width="400" height="400" align="right"> 
+<iframe>
+  <img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b278b38b-ced3-4b16-afec-d6e066e00d2f#gh-light-mode-only" alt="kirby Gif" width="400"   
+  height="400" align="right"> 
+</iframe>
+
+
+<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/037583bc-5215-4c1c-8df6-a7e64d79873b#gh-dark-mode-only" alt="kirby Gif" width="400" height="400" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=What+I'm+up+to)](https://git.io/typing-svg#gh-light-mode-only)
 
