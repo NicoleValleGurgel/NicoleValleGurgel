@@ -16,6 +16,7 @@ And I know how to make digital art</p>
  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=What+I'm+up+to)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C71F2&repeat=false&random=false&width=435&lines=What+I'm+up+to)](https://git.io/typing-svg#gh-dark-mode-only)
 
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Fourth semester in Information Technology Management
 
