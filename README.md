@@ -26,15 +26,19 @@ And I know how to make digital art</p>
 ## 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Technologies+I'm+learning)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C71F2&repeat=false&random=false&width=435&lines=Technologies+I'm+learning)](https://git.io/typing-svg#gh-dark-mode-only)
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />  Java
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Also keen on learning Angular, React, SQL, Bootstrap and jQuery
 
 ##
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Social+media)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C71F2&repeat=false&random=false&width=435&lines=Social+media)](https://git.io/typing-svg#gh-dark-mode-only)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-f5b1b0?style=for-the-badge&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/nicole-valle-gurgel-364160201#gh-light-mode-only)
 [![gmail](https://img.shields.io/badge/Gmail-f5b1b0?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:nicolevalegurgel22@gmail.com#gh-light-mode-only)
+[![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4c71f2)](www.linkedin.com/in/nicole-valle-gurgel-364160201#gh-dark-mode-only)
+[![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=4c71f2)](mailto:nicolevalegurgel22@gmail.com#gh-dark-mode-only)
 
 ## 
 
@@ -55,12 +59,14 @@ And I know how to make digital art</p>
 ## 
 
 [![languages](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Languages+and+Technologies)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C71F2&repeat=false&random=false&width=435&lines=Languages+and+Technologies)](https://git.io/typing-svg#gh-dark-mode-only)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,python,cypress,java,md,sketchup,autocad)](https://skillicons.dev)
 
 ##
 
 [![platforms](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Tools+and+Platforms)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C71F2&repeat=false&random=false&width=435&lines=Tools+and+Platforms)](https://git.io/typing-svg#gh-dark-mode-only)
 
 [![My Skills](https://skillicons.dev/icons?i=azure,vscode,obsidian,linux,idea,git,github,figma)](https://skillicons.dev)
 
