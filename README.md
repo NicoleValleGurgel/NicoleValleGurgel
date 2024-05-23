@@ -24,10 +24,7 @@ And I know how to make digital art</p>
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="25" height="25" /> Making projects in 3D
 
 
-<img src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b6cc9fec-4605-45f9-a4c4-98098beeaa53" prefers-color-scheme: dark>
-  
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b6cc9fec-4605-45f9-a4c4-98098beeaa53" height='200'>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NicoleValleGurgel/NicoleValleGurgel/assets/160984178/b5c47fa6-1c98-4322-877e-b01a53e2346c">
+
   
 
 
