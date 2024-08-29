@@ -67,14 +67,14 @@ And I know how to make digital art</p>
 [![languages](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Languages+and+Technologies)](https://git.io/typing-svg#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C71F2&repeat=false&random=false&width=435&lines=Languages+and+Technologies)](https://git.io/typing-svg#gh-dark-mode-only)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,python,cypress,java,md,sketchup,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,python,react,tailwind,cypress,java,md,sketchup,autocad)](https://skillicons.dev)
 
 ##
 
 [![platforms](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=F5B1B0&repeat=false&random=false&width=427&height=41&lines=Tools+and+Platforms)](https://git.io/typing-svg#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C71F2&repeat=false&random=false&width=435&lines=Tools+and+Platforms)](https://git.io/typing-svg#gh-dark-mode-only)
 
-[![My Skills](https://skillicons.dev/icons?i=azure,vscode,obsidian,linux,idea,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,vscode,obsidian,notion,linux,idea,git,github,figma)](https://skillicons.dev)
 
 ##
 
